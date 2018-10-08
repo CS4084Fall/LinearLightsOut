@@ -1,4 +1,4 @@
-package edu.rosehulman.boutell.lightsout;
+package ie.ul.deirdreshanahan.linearlightsoutlab;
 
 
 import java.util.Random;
