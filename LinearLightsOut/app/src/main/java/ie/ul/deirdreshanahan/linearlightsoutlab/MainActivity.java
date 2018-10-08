@@ -14,4 +14,7 @@ public class MainActivity extends AppCompatActivity {
 
     public void pressedSquare(View view) {
     }
+
+    public void pressedNewGame(View view) {
+    }
 }
